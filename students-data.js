@@ -3,40 +3,34 @@
     "id": 1,
     "fullName": "Jenny Chan",
     "book name":"NS Material"
-    "address": "3 waterfoot road",
-    "phoneNumber": "333-962-7516",
-    "email": "jenny.chan@email.com"
+    "date":"05-09-2021"
+    "return":"06-15-2021"
   },
   {
     "id": 2,
     "fullName": "Jessica warren",
     "book name":"Science Material"
-    "address": "4 tall town",
-    "phoneNumber": "011-211-7516",
-    "email": "jessica.warren@email.com"
-  },
+    "date":"07-09-2021"
+    "return":"09-15-2021"
   {
     "id": 3,
     "fullName": "Tony Frank",
     "book name":"English Material"
-    "address": "11 lesly road",
-    "phoneNumber": "788-962-7516",
-    "email": "tony.frank@email.com"
+    "date":"05-09-2021"
+    "return":"06-15-2021"
   },
   {
     "id": 4,
     "fullName": "Jeremy Clark",
     "book name":"Maths Material"
-    "address": "333 miltown manor",
-    "phoneNumber": "011-962-111",
-    "email": "jeremy.clark@email.com"
+    "date":"01-09-2021"
+    "return":"03-15-2021"
   },
   {
     "id": 5,
     "fullName": "Raymond Edwards",
     "book name":"Social Material"
-    "address": "99 blue acres",
-    "phoneNumber": "3231-962-7516",
-    "email": "raymon.edwards@email.com"
+    "date":"08-09-2021"
+    "return":"10-25-2021"
   }
 ]
